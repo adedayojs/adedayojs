@@ -2,8 +2,11 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Adedayo Robert Adedayo</strong>, currently a web programmer developing the fintech application <strong>Ethiope</strong>.
-Also, I'm a freelancer. If you have a need for a web application or website, contact me by email: <a href="samfeolu@gmail.com">samfeolu@gmail.com</a><br><br>
+I'm <strong>Adedayo Robert Adedayo</strong>, a Software Engineer. My Main focus is frontend developement. I am an <strong>Angular</strong> expert. I also work with expressjs and laravel ocassionally on the backend.
+<br>
+Aside core programming, I have used a wide range of tools including <strong>Jira</strong>, <strong>Bitbucket</strong>, <strong>Confluence</strong>, <strong>Slack</strong> I have also worked with Methodologies such as <strong>Scrum</strong> and <strong>Kanban</strong>
+<br>
+Finally, I'm a freelancer. If you have a need for a web application or website, contact me by email: <a href="samfeolu@gmail.com">samfeolu@gmail.com</a> or through any of the contact buttons below my profile <br><br>
 <!-- <strong>My Blog</strong>: https://lambiengcode.blogspot.com <br> -->
 <!-- <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br> -->
 
