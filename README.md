@@ -20,29 +20,29 @@ Also, I'm a freelancer. If you have a need for a web application or website, con
 #### Skills
 
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=black)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-e69514?style=for-the-badge&labelColor=black&logo=Express&logoColor=ffa500)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
 [![ReactNative Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
 
-
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 <br>
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=black)](https://wa.me/+2349067606623)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=D14836)](mailto:samfeolu@gmail.com) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&labelColor=&logo=facebook&logoColor=white)](https://facebook.com/adedayojs) 
-[![Twitter Badge](https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&labelColor=&logo=twitter&logoColor=white)](https://twitter.com/adedayojs) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=linkedin&logoColor=white)](https://linkedin.com/in/adedayojs) 
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&labelColor=&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15284719/adedayojs) 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=D14836)](mailto:samfeolu@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&labelColor=&logo=facebook&logoColor=white)](https://facebook.com/adedayojs)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&labelColor=&logo=twitter&logoColor=white)](https://twitter.com/adedayojs)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=linkedin&logoColor=white)](https://linkedin.com/in/adedayojs)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&labelColor=&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15284719/adedayojs)
 
 #### Blogs
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&labelColor=&logo=medium&logoColor=white)](https://medium.com/@samfeolu) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&labelColor=&logo=medium&logoColor=white)](https://medium.com/@samfeolu)
+
 #### Coding Stats - Last 7 Days
 
 <!--START_SECTION:waka-->
@@ -58,6 +58,10 @@ YAML         10 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 #### Projects
-[![Gidimo](https://cdn.loom.com/sessions/thumbnails/b7b7564d1ca64d93b4e139a4a1c7b272-with-play.gif)](https://www.loom.com/share/b7b7564d1ca64d93b4e139a4a1c7b272)
-<br>
-[![Gidimo](https://cdn.loom.com/sessions/thumbnails/b2c5c4d60403424e8cfed7ca1c5868d1-with-play.gif)](https://www.loom.com/share/b2c5c4d60403424e8cfed7ca1c5868d1)
+
+<a href="https://www.loom.com/share/b7b7564d1ca64d93b4e139a4a1c7b272">
+    <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/b7b7564d1ca64d93b4e139a4a1c7b272-with-play.gif">
+  </a>
+  <a href="https://www.loom.com/share/b2c5c4d60403424e8cfed7ca1c5868d1">
+    <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/b2c5c4d60403424e8cfed7ca1c5868d1-with-play.gif">
+  </a>
