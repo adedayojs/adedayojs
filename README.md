@@ -60,8 +60,8 @@ YAML         10 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 #### Projects
 
 <a href="https://www.loom.com/share/b7b7564d1ca64d93b4e139a4a1c7b272">
-    <img style="width:100px;" src="https://cdn.loom.com/sessions/thumbnails/b7b7564d1ca64d93b4e139a4a1c7b272-with-play.gif">
+    <img style="width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7b7564d1ca64d93b4e139a4a1c7b272-with-play.gif">
   </a>
   <a href="https://www.loom.com/share/b2c5c4d60403424e8cfed7ca1c5868d1">
-    <img style="width:100px;" src="https://cdn.loom.com/sessions/thumbnails/b2c5c4d60403424e8cfed7ca1c5868d1-with-play.gif">
+    <img style="width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b2c5c4d60403424e8cfed7ca1c5868d1-with-play.gif">
   </a>
