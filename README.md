@@ -58,5 +58,6 @@ YAML         10 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 #### Projects
-[![Watch the video](https://www.loom.com/share/b7b7564d1ca64d93b4e139a4a1c7b272)](https://youtu.be/T-D1KVIuvjA)
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b7b7564d1ca64d93b4e139a4a1c7b272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Gidimo](https://cdn.loom.com/sessions/thumbnails/b7b7564d1ca64d93b4e139a4a1c7b272-with-play.gif)](https://www.loom.com/share/b7b7564d1ca64d93b4e139a4a1c7b272)
+<br>
+[![Gidimo](https://cdn.loom.com/sessions/thumbnails/b2c5c4d60403424e8cfed7ca1c5868d1-with-play.gif)](https://www.loom.com/share/b2c5c4d60403424e8cfed7ca1c5868d1)
