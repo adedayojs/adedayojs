@@ -16,8 +16,8 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 </p>
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=adedayojs&count_private=true&show_icons=true&theme=blueberry" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedayojs&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adedayojs&count_private=true&show_icons=true&theme=blueberry" height="160em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedayojs&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="160em"/>
 </p>
 
 #### Skills
