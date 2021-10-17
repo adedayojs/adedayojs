@@ -1,4 +1,4 @@
-<img src="https://github.com/adedayojs/adedayojs/blob/main/gif/banner_gif.gif?raw=true" height="260px" align="right" alt="Computador">
+<img src="https://github.com/adedayojs/adedayojs/blob/main/gif/banner_gif.gif?raw=true" height="200px" align="right" alt="Computador">
 
 <p align="justify" margin="80%"> 
 <br>
@@ -14,13 +14,17 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 
 <!-- - Idea Award Hackathon HoChiMinh City 2020 - [Repository](https://github.com/hongvinhmobile/hackathon2020) -->
 </p>
+<br><br><br>
 <br>
-<p>
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=adedayojs&count_private=true&show_icons=true&theme=blueberry" height="160em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedayojs&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="160em"/>
+
 </p>
 
-#### Skills
+#### Skills and Tools I Work with
+<p align="center">
 
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -30,6 +34,7 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
 [![ReactNative Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+</p>
 
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
