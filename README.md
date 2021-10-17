@@ -70,6 +70,5 @@ SCSS         17 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </a>
 
 <a href="https://www.loom.com/share/ec5f9f1eca6d47738bd9f341e8f4e148">
-    <p>Growmotely - Watch Video</p>
     <img style="width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec5f9f1eca6d47738bd9f341e8f4e148-with-play.gif">
   </a>
