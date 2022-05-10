@@ -56,8 +56,8 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 3 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.83 %
-Other                      3 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.70 %
+TypeScript                 4 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.36 %
+Other                      2 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.45 %
 ```
 
 <!--END_SECTION:waka-->
