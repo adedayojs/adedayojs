@@ -2,7 +2,7 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Adedayo Robert Adedayo</strong>, a Senior Software Engineer. My Main focus is Frontend and Backend developement. I am an <strong>Angular</strong> expert. I am also proficent with other frontend libraries including <strong>React</strong> and <strong>Vue</strong>. I am also very proficient with Expressjs and laravel. I am also exposed to low level typed languages <strong>Rust</strong> particularly.
+I'm <strong>Adedayo Robert Adedayo</strong>, a Senior Software Engineer. I major in Frontend and Backend developement. I am an <strong>Angular</strong> expert. I am also proficent with other frontend libraries including <strong>React</strong> and <strong>Vue</strong>. I am also very proficient with Expressjs and laravel. I am also exposed to low level typed languages <strong>Rust</strong> particularly.
 <br>
 Aside core programming, I have used a wide range of tools including but not limited to <strong>Jira</strong>, <strong>Bitbucket</strong>, <strong>Confluence</strong>, <strong>Slack</strong> I have also worked with Methodologies such as <strong>Scrum</strong> and <strong>Kanban</strong>
 <br>
@@ -61,16 +61,3 @@ Finally, i can work in a freelance setting. If you have a need for a web applica
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&labelColor=&logo=medium&logoColor=white)](https://medium.com/@samfeolu)
 
-#### Coding Stats - Last 7 Days
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   5 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.10 %
-JavaScript   3 hrs 45 mins   ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.32 %
-HTML         1 hr 56 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.11 %
-Rust         57 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.49 %
-Bash         14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 %
-```
-
-<!--END_SECTION:waka-->
