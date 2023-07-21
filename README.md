@@ -17,6 +17,8 @@ Finally, i can work in a freelance setting. If you have a need for a web applica
 <!-- - Idea Award Hackathon HoChiMinh City 2020 - [Repository](https://github.com/hongvinhmobile/hackathon2020) -->
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adedayojs&layout=compact)]()
+
 <!--
 <br>
 <p align="center">
