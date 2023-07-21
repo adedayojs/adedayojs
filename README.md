@@ -34,8 +34,10 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-e69514?style=for-the-badge&labelColor=black&logo=Express&logoColor=ffa500)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
-[![ReactNative Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black)](#)
+[![ReactNative Badge](https://img.shields.io/badge/React-FF2D20?style=for-the-badge&logo=react&logoColor=FF2D20&labelColor=black)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Vue-e69514?style=for-the-badge&labelColor=green&logo=vuejs&logoColor=ffa500)](#)
+
 </p>
 
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
@@ -66,13 +68,3 @@ Bash         14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-#### Projects
-
-<a href="https://www.loom.com/share/b7b7564d1ca64d93b4e139a4a1c7b272">
-    <img style="width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7b7564d1ca64d93b4e139a4a1c7b272-with-play.gif">
-  </a>
-
-<a href="https://www.loom.com/share/ec5f9f1eca6d47738bd9f341e8f4e148">
-    <img style="width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec5f9f1eca6d47738bd9f341e8f4e148-with-play.gif">
-  </a>
