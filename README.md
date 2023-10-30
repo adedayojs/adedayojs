@@ -2,13 +2,31 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Adedayo Robert Adedayo</strong>, a Senior Software Engineer. I major in Frontend and Backend developement. I am an <strong>Angular</strong> expert. I am also proficent with other frontend libraries including <strong>React</strong> and <strong>Vue</strong>. I am also very proficient with Expressjs and laravel. I am also exposed to low level typed languages <strong>Rust</strong> particularly.
+  As the Chief Technology Officer (CTO) at <a href="https://3080eats.com">3080Eats</a>, I am Adedayo Robert Adedayo, a technology leader with a strong focus on innovation and a profound background in Full-Stack Development. My expertise lies in the realm of web development, with a specialization in Angular, and a versatile command of other prominent frontend libraries including <strong>React</strong> and <strong>Vue</strong>
+
+ <br>
+ 
+ I bring to the table a wealth of experience in backend development as well, with proficiency in <stronng>Express.js</stronng> and <strong>Laravel</strong>. I am not confined to high-level languages; I am also well-acquainted with lower-level typed languages, particularly <strong>Rust</strong>.
+
+ <br>
+ 
+My approach to technology leadership extends beyond coding. I have cultivated a broad skill set that includes the adept use of various software tools and platforms, including <strong>Jira</strong>, <strong>Bitbucket</strong>, <strong>Confluence</strong>, and <strong>Slack.</strong> I am well-versed in established methodologies such as <strong>Scrum</strong> and <strong>Kanban</strong>, which I apply to ensure that our technology initiatives run efficiently.
+
 <br>
-Aside core programming, I have used a wide range of tools including but not limited to <strong>Jira</strong>, <strong>Bitbucket</strong>, <strong>Confluence</strong>, <strong>Slack</strong> I have also worked with Methodologies such as <strong>Scrum</strong> and <strong>Kanban</strong>
-<br>
- As much as i love to practice ownership on any project i work on, I am also a Team player driven by the innate desire to learn new technologies and solve problem with the right tools and language.
-<br>
-Finally, i can work in a freelance setting. If you have a need for a web application or website, contact me by email: <a href="samfeolu@gmail.com">samfeolu@gmail.com</a> or through any of the contact buttons below my profile <br><br>
+
+My leadership style embodies a balance between taking ownership of projects and fostering a collaborative team spirit. I have a strong passion for continual learning, which drives my pursuit of new technologies and their strategic application to solve complex challenges.
+ 
+ <br>
+ 
+In addition to my role as CTO, I am also available for freelance opportunities. If you require my expertise in the development of web applications or websites, please feel free to reach out to me via email at samfeolu@gmail.com or by using the contact options available on my profile.
+
+
+
+
+
+
+
+
 <!-- <strong>My Blog</strong>: https://medium.com/@samfeolu <br> -->
 <!-- <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br> -->
 
